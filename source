@@ -1,4 +1,4 @@
-local fsgui = game.CoreGui:FindFirstChild("SGUI")
+local fsgui = game.CoreGui:FindFirstChild("MGUI")
 if fsgui then
 	fsgui:Destroy()
 end
